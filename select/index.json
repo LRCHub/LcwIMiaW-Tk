@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Rainy proof",
+  "base_artist": "HACHI",
+  "createdAt": "2025-12-17T10:33:03.008034Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rainy proof",
+      "artist": "Hachi",
+      "has_synced": false,
+      "path": "select/01_Rainy_proof_Hachi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rainy proof",
+      "artist": "HACHI",
+      "has_synced": true,
+      "path": "select/02_Rainy_proof_HACHI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rainy proof (Acoustic ver.)",
+      "artist": "Hachi",
+      "has_synced": true,
+      "path": "select/03_Rainy_proof_(Acoustic_ver.)_Hachi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rainy proof",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_Rainy_proof_HACHI.txt"
+    }
+  ]
+}
